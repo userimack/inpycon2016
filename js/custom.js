@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
         {
             $('body').scrollTo(target, {         
                 'axis':'y', 
-                duration: 2500, 
+                duration: 700, 
                 easing:'easeOutQuad'
             });
         }
